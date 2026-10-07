@@ -1,0 +1,3 @@
+test,read_count,bytes_per_read,total_bytes,elapsed_ms,throughput_MB_s,slowdown_vs_sequential
+sequential,1024,262144,268435456,51.534900,5208.809098,1.000000
+random,1024,262144,268435456,57.968100,4630.744427,1.124832
